@@ -1,0 +1,37 @@
+table,#t1,#t2,#t3,#t4,#t5{
+    text-align: center;
+    padding: 20px;
+    border: 2px solid red;
+    border-collapse: collapse;
+}
+#t1{
+    position: relative;
+}
+th{
+    text-align: center;
+    padding: 20px;
+}
+#lunch{
+    padding: 20px;
+}
+#t0{
+    padding: 20px;
+}
+#th1{
+    border-top:2px solid black ;
+}
+#tl1{
+    border-left:2px solid black;
+}
+#tp1{
+    border-top:2px solid black ;
+}
+#tp2{
+    position: relative;
+    right: 50px;
+    bottom: 30px;
+    font-size: large;
+}
+table{
+    font-family: Arial, Helvetica, sans-serif;
+}
